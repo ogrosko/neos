@@ -1,0 +1,35 @@
+{
+	"name": "ogrosko/neos",
+    "type": "Typo3 Neos",
+    "description": "Neos page",
+    "homepage": "http://binary-bay.com",
+    "keywords": ["TYPO3 NOES"],
+    "version": "0.0.1",
+    "authors": [
+		{
+			"name": "Peter Eliades",
+			"role": "Developer",
+			"email": "pe@binary-bay.com"
+		},
+		{
+			"name": "Ondrej Grosko",
+			"role": "Developer",
+			"email": "og@binary-bay.com"
+		},
+		{
+			"name": "Juraj Sulek",
+			"role": "Developer",
+			"email": "js@binary-bay.com"
+		}
+	],
+
+	"repositories": [
+    ],
+
+    "require": {
+		"typo3/neos": "2.2.0"
+    },
+
+	"require-dev": {
+	}
+}
